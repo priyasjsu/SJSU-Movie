@@ -19,6 +19,8 @@ Want to share your movie collection with your loved ones? Our sub-account featur
 ### 5. Netflix-Inspired Functionality
 We've taken inspiration from streaming giants like Netflix to bring you a set of common functionality queries. Whether you're searching for trending movies, exploring top-rated films, or discovering hidden gems, our queries will help you find exactly what you're looking for.
 
+![Click here for SQL Implementation and Queries Report](https://github.com/priyasjsu/SJSU-Movie-Database-management/blob/main/SMD_SQL_data_modelling.pdf)
+
 # SQL to NoSQL Database Migration and Query Performance Comparison 
 ![Click here for MongoDB Implementation and Migration Journey Report](https://github.com/priyasjsu/SJSU-Movie/blob/main/Mongo_data_modelling/Project_report.pdf)
 <img width="500" height="300" src="images/sql-mongo.png"/>
